@@ -1,4 +1,4 @@
-
+jaffle_dagster/tmp*
 target/
 dbt_modules/
 logs/
